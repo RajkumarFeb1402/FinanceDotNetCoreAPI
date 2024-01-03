@@ -1,0 +1,7 @@
+﻿namespace ERDiagram
+{
+}
+
+namespace ERDiagram
+{
+}

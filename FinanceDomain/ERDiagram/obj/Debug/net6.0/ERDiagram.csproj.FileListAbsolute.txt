@@ -1,0 +1,14 @@
+D:\ERDiagram\bin\Debug\net6.0\ERDiagram.exe
+D:\ERDiagram\bin\Debug\net6.0\ERDiagram.deps.json
+D:\ERDiagram\bin\Debug\net6.0\ERDiagram.runtimeconfig.json
+D:\ERDiagram\bin\Debug\net6.0\ERDiagram.dll
+D:\ERDiagram\bin\Debug\net6.0\ERDiagram.pdb
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.AssemblyInfoInputs.cache
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.AssemblyInfo.cs
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.csproj.CoreCompileInputs.cache
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.dll
+D:\ERDiagram\obj\Debug\net6.0\refint\ERDiagram.dll
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.pdb
+D:\ERDiagram\obj\Debug\net6.0\ERDiagram.genruntimeconfig.cache
+D:\ERDiagram\obj\Debug\net6.0\ref\ERDiagram.dll

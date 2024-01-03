@@ -1,0 +1,11 @@
+D:\FinanceModuleCoreAPI.Entities\bin\Debug\net6.0\FinanceModuleCoreAPI.Entities.deps.json
+D:\FinanceModuleCoreAPI.Entities\bin\Debug\net6.0\FinanceModuleCoreAPI.Entities.dll
+D:\FinanceModuleCoreAPI.Entities\bin\Debug\net6.0\FinanceModuleCoreAPI.Entities.pdb
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.AssemblyInfoInputs.cache
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.AssemblyInfo.cs
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.csproj.CoreCompileInputs.cache
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.dll
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\refint\FinanceModuleCoreAPI.Entities.dll
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\FinanceModuleCoreAPI.Entities.pdb
+D:\FinanceModuleCoreAPI.Entities\obj\Debug\net6.0\ref\FinanceModuleCoreAPI.Entities.dll

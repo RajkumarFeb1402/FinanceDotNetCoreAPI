@@ -1,0 +1,17 @@
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Repository.deps.json
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Repository.dll
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Repository.pdb
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Entities.dll
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Helpers.dll
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Entities.pdb
+D:\FinanceModuleCoreAPI.Repository\bin\Debug\net6.0\FinanceModuleCoreAPI.Helpers.pdb
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.csproj.AssemblyReference.cache
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.AssemblyInfoInputs.cache
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.AssemblyInfo.cs
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.csproj.CoreCompileInputs.cache
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.csproj.CopyComplete
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.dll
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\refint\FinanceModuleCoreAPI.Repository.dll
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\FinanceModuleCoreAPI.Repository.pdb
+D:\FinanceModuleCoreAPI.Repository\obj\Debug\net6.0\ref\FinanceModuleCoreAPI.Repository.dll
